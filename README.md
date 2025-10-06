@@ -51,8 +51,7 @@ It includes columns such as:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/cord19-explorer.git
-cd cord19-explorer
+git clone [https://github.com/<your-username>/cord19-explorer.git](https://github.com/MicahNyakangoMosomi/PLP-python-week-8.git)
 
 ### 2 . Create a Virtual Environment
 ```bash
